@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif">
 
 <br>
-<hr width="45%" >
+<hr width="47%" >
 
 <h3 align="left">Hobbies:</h3>
 🚴‍♀️Ciclismo
@@ -17,7 +17,12 @@
 📚 Leitura
 
 <br>
-<hr width="28%" >
+<hr width="30%" >
+<h3 align="left">Formação:</h3>
+Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na <a href="https://www.growdev.com.br/" target="_blank" rel="noreferrer">Growdev</a>
+
+<br>
+<hr width="30%" >
 
 <h3 align="left">Linguagens:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
@@ -29,13 +34,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> </p><br>
 
 
-<hr width="28%" >
+<hr width="30%" >
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adriano-santos-51473a256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://www.instagram.com/euadrianoss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-<a href="mailto:adrianossfontes@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adriano-santos-51473a256/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://www.instagram.com/euadrianoss/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anii_akhil" height="30" width="40" /></a>
+<a href="mailto:adrianossfontes@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="gmail" height="33" width="33" /></a>
 </p>
 
 
