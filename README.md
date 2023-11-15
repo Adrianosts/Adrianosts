@@ -17,10 +17,10 @@ O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️
 <br>
 <hr width="15%" >
 <h3 align="left">Formação:</h3>
-Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> ⬅️
+🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> ⬅️
 
 <br>
-<hr width="66%" >
+<hr width="70%" >
 
 <h3 align="left">Linguagens:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
