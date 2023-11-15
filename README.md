@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="100%" height="250" src="https://jonhnnyweslley.net/pt-br/blog/como-utilizar-ia-para-aumentar-sua-produtividade-em-programacao/tabnine_python_demo.gif">
 
 <h3 align="center">O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️</h3>
-<br><br>
+<br>
 
 <h3 align="left">Formação:</h3>
 🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> 
