@@ -17,12 +17,12 @@
 📚 Leitura
 
 <br>
-<hr width="30%" >
+<hr width="15%" >
 <h3 align="left">Formação:</h3>
-Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na <a href="https://www.growdev.com.br/" target="_blank" rel="noreferrer">Growdev</a>
+Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer">Growdev</a>
 
 <br>
-<hr width="30%" >
+<hr width="59%" >
 
 <h3 align="left">Linguagens:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
@@ -31,7 +31,7 @@ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na <a hre
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> </p><br>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> </p>
 
 
 <hr width="30%" >
