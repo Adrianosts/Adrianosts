@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Adriano</h1>
 
-
 <img align="center" alt="Coding" width="100%" height="250" src="https://jonhnnyweslley.net/pt-br/blog/como-utilizar-ia-para-aumentar-sua-produtividade-em-programacao/tabnine_python_demo.gif">
 
 <h3 align="center">O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️</h3>
@@ -10,7 +9,7 @@
 🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> 
 
 <br>
-<hr width="68%" >
+<hr width="100%" >
 
 <h3 align="left">Linguagens:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
@@ -21,21 +20,21 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> </p>
 
-<hr width="30%" >
+<hr width="100%" >
 
 <h3 align="left">Experiências profissionais</h3>
 🖥️ TI <br>
 🚚 Logística <br>
 🏪 Vendas
 
-<hr width="30%" >
+<hr width="100%" >
 
 <h3 align="left">Hobbies:</h3>
 🚴‍♀️Ciclismo <br>
 🏃‍♂️Corrida de rua <br>
 📚 Leitura
 
-<hr width="30%" >
+<hr width="100%" >
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
