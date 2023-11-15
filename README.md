@@ -1,19 +1,17 @@
 <h1 align="center">Olá 👋, Eu sou o Adriano</h1>
 
 
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🖥️ Atualmente estou aprendendo Desenvolvimento Web Full-Stack
+O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif">
 
-<br>
 <hr width="47%" >
 
 <h3 align="left">Hobbies:</h3>
-🚴‍♀️Ciclismo
-<br>
-🏃‍♂️Corrida de rua
-<br>
+🚴‍♀️Ciclismo <br>
+🏃‍♂️Corrida de rua <br>
 📚 Leitura
 
 <br>
@@ -33,6 +31,12 @@ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na <a hre
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> </p>
 
+<hr width="30%" >
+
+<h3 align="left">Experiências profissionais</h3>
+🖥️ TI <br>
+🚚 Logística <br>
+🏪 Vendas
 
 <hr width="30%" >
 
