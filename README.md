@@ -1,19 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Adriano</h1>
 
-O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif">
 
-<hr width="36%" >
+<img align="center" alt="Coding" width="100%" height="250" src="https://jonhnnyweslley.net/pt-br/blog/como-utilizar-ia-para-aumentar-sua-produtividade-em-programacao/tabnine_python_demo.gif">
 
-<h3 align="left">Hobbies:</h3>
-🚴‍♀️Ciclismo <br>
-🏃‍♂️Corrida de rua <br>
-📚 Leitura
+<h3 align="center">O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️</h3>
+<br><br>
 
-<br>
-<hr width="15%" >
 <h3 align="left">Formação:</h3>
-🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> ⬅️
+🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> 
 
 <br>
 <hr width="68%" >
@@ -33,6 +27,13 @@ O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️
 🖥️ TI <br>
 🚚 Logística <br>
 🏪 Vendas
+
+<hr width="30%" >
+
+<h3 align="left">Hobbies:</h3>
+🚴‍♀️Ciclismo <br>
+🏃‍♂️Corrida de rua <br>
+📚 Leitura
 
 <hr width="30%" >
 
