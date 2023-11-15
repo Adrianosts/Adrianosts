@@ -1,9 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Adriano</h1>
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif">
 
@@ -20,7 +16,7 @@ O QUE NÃO TE DESAFIA NÃO TE TRANSFORMA 🛡️
 🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> ⬅️
 
 <br>
-<hr width="70%" >
+<hr width="80%" >
 
 <h3 align="left">Linguagens:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
