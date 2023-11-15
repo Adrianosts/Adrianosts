@@ -22,7 +22,7 @@
 
 <hr width="100%" >
 
-<h3 align="left">Experiências profissionais</h3>
+<h3 align="left">Experiências profissionais:</h3>
 🖥️ TI <br>
 🚚 Logística <br>
 🏪 Vendas
@@ -40,6 +40,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/adriano-santos-51473a256/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/euadrianoss/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anii_akhil" height="30" width="40" /></a>
+<a href="https://wa.me/5579998668216" target="blank"><img align="center" src="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone-3.png" alt="gmail" height="30" width="30" /></a>
 <a href="mailto:adrianossfontes@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" alt="gmail" height="33" width="33" /></a>
 </p>
 
