@@ -6,7 +6,7 @@
 <br>
 
 <h3 align="left">Formação:</h3>
-🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 18º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> 
+🖥️ Cursando Desenvolvimento Web Full-Stack Programa Starter 20º edição na ➡️ <a href="https://www.growdev.com.br/" target="blank" rel="noreferrer"><img src="https://www.growdev.com.br/assets/images/logo_growdev.png" align="center" width="80" height="20"/></a> 
 
 <br>
 <hr width="100%" >
