@@ -13,9 +13,8 @@ Bem vindo ao meu perfil no Github 😊
 <img src="https://img.shields.io/badge/Node.js-43853D?style=Plastic&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=Plastic&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=Plastic&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=Plastic&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=Plastic&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=Plastic&logo=material-ui&logoColor=white"/> 
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=Plastic&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=Plastic&logo=bootstrap&logoColor=white"/> 
 </div>
 
